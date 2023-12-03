@@ -1,0 +1,19 @@
+
+.nav{
+    grid-area: nav;
+    background-color: aqua;
+  }
+
+  a{
+    color: white;
+    text-decoration: none
+  }
+
+  a:hover{
+    color: goldenrod;
+  }
+
+  .isActive{
+   color: green;
+  }
+  
